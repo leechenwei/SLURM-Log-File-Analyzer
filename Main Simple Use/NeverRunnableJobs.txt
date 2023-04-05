@@ -1,0 +1,133 @@
+
+Summary: 
+The number of jobs that never runnable in partitions: 116
+The frequency of CPU involved: 48
+The frequency of GPU involved: 68
+
+The number never runnable jobs by partition: 
+cpu-epyc            27   
+cpu-opteron         21   
+gpu-k10             6    
+gpu-k40c            9    
+gpu-titan           30   
+gpu-v100s           23   
+
+The jobs that never runnable in partitions: 
++-------------------------------------------------------------------+
+  No.   Job ID   CPU/GPU  Partitions
+    1   42984       gpu               k10
+    2   42987       gpu               k10
+    3   42998       cpu           opteron
+    4   42999       cpu           opteron
+    5   43000       cpu           opteron
+    6   43002       cpu           opteron
+    7   43243       cpu           opteron
+    8   43285       cpu           opteron
+    9   43292       cpu           opteron
+   10   43519       gpu              k40c
+   11   43519       gpu             titan
+   12   43519       gpu             v100s
+   13   43520       gpu              k40c
+   14   43520       gpu             titan
+   15   43520       gpu             v100s
+   16   43525       gpu              k40c
+   17   43525       gpu             titan
+   18   43526       gpu              k40c
+   19   43526       gpu             titan
+   20   43527       gpu              k40c
+   21   43527       gpu             titan
+   22   43528       gpu              k40c
+   23   43528       gpu             titan
+   24   43650       cpu           opteron
+   25   43654       gpu               k10
+   26   43729       cpu              epyc
+   27   43752       gpu               k10
+   28   44632       gpu             titan
+   29   44633       gpu             titan
+   30   44634       gpu             titan
+   31   44635       gpu             titan
+   32   44636       gpu             titan
+   33   44637       gpu             titan
+   34   44638       gpu             titan
+   35   44639       gpu             titan
+   36   44654       gpu             titan
+   37   44757       gpu              k40c
+   38   44783       cpu              epyc
+   39   44784       cpu              epyc
+   40   44810       gpu             v100s
+   41   44811       gpu             v100s
+   42   44812       gpu             v100s
+   43   44813       gpu             v100s
+   44   44816       gpu             v100s
+   45   44817       gpu             v100s
+   46   44819       gpu             v100s
+   47   44844       cpu              epyc
+   48   44855       cpu              epyc
+   49   44856       cpu              epyc
+   50   44858       cpu              epyc
+   51   44860       cpu              epyc
+   52   44952       cpu              epyc
+   53   45016       gpu             v100s
+   54   45126       gpu             v100s
+   55   45243       cpu              epyc
+   56   45303       gpu               k10
+   57   45316       cpu              epyc
+   58   45317       cpu              epyc
+   59   45318       cpu              epyc
+   60   45336       gpu               k10
+   61   45406       cpu              epyc
+   62   45407       cpu              epyc
+   63   45408       cpu              epyc
+   64   45409       cpu              epyc
+   65   45538       cpu              epyc
+   66   45541       cpu              epyc
+   67   45829       cpu           opteron
+   68   45866       cpu              epyc
+   69   46134       gpu             v100s
+   70   46135       gpu             v100s
+   71   46156       gpu             v100s
+   72   46159       gpu             titan
+   73   46160       gpu             v100s
+   74   46162       gpu             titan
+   75   46164       gpu             titan
+   76   46165       gpu             titan
+   77   46166       gpu             titan
+   78   46174       gpu             titan
+   79   46181       gpu             titan
+   80   46826       gpu             titan
+   81   46832       gpu             titan
+   82   47469       cpu              epyc
+   83   47715       gpu             v100s
+   84   47716       gpu             v100s
+   85   47717       gpu             v100s
+   86   47775       gpu             v100s
+   87   47776       gpu             v100s
+   88   47978       cpu           opteron
+   89   47984       cpu              epyc
+   90   48495       gpu             v100s
+   91   48909       cpu           opteron
+   92   49038       cpu           opteron
+   93   49289       cpu              epyc
+   94   49695       gpu              k40c
+   95   50012       cpu           opteron
+   96   50037       gpu             titan
+   97   50322       gpu             v100s
+   98   50509       gpu             titan
+   99   50838       gpu             titan
+  100   50843       gpu             titan
+  101   50858       gpu             titan
+  102   50859       gpu             titan
+  103   51004       gpu             v100s
+  104   52263       cpu           opteron
+  105   52266       cpu           opteron
+  106   52267       cpu           opteron
+  107   52268       cpu           opteron
+  108   52419       cpu              epyc
+  109   52420       cpu              epyc
+  110   52446       cpu           opteron
+  111   52659       cpu              epyc
+  112   52778       cpu           opteron
+  113   53361       cpu           opteron
+  114   53404       cpu           opteron
+  115   53413       gpu              k40c
+  116   53480       cpu              epyc
